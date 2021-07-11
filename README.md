@@ -56,7 +56,7 @@ Start the server
 
 
 ## .gitignore
-- Paste the files that you do not want track by the git and following link will have the gitignore file of python 
+- Paste the files that you do not want track by the git and following link will have the gitignore files of python 
 [gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore)
   
 ```txt file
