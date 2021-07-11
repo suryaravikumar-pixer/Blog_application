@@ -64,7 +64,7 @@ say like venv, db.sqlite3, env/, and etc
 ```
 
 ## requirements.txt
-- The below command sumup the all installed packges into the requirements file.
+- The below command windup the all installed packges into the requirements file.
 ```bash
 pip freeze -> requirements.txt
 ```
@@ -74,7 +74,7 @@ pip freeze -> requirements.txt
 [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template) 
 - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
  
-## Authors
+### Authors
 
 - [Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer)
 
