@@ -7,7 +7,7 @@ A Blog application with Django that allows users to create, edit, and delete pos
 ## Documentation
 
 
-## Set up a virtual an environment and activate
+## Set up a virtual environment and activate
 
 I have done all this in my git bash terminal. Make dir for this proejct, then follow the below steps
 ```python
