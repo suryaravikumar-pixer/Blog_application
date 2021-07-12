@@ -70,6 +70,48 @@ pip freeze -> requirements.txt
 ```
 
 
+## Django python shell
+
+Go to the shell
+
+```bash
+  python manage.py shell
+```
+
+Import the User and Model
+
+```bash
+  from blog.models import Post
+  from django.contrib.auth.models import User
+```
+
+Check the posts
+
+```bash
+  Post.objects.all()
+```
+
+Check the users
+
+```bash
+  User.objects.all()
+```
+Post created by author | author.id
+
+```bash
+bern = Post.objects.create(title='The Secret',content='About s
+ecret',author_id=2)
+```
+Save the post
+
+```bash
+  bern.save()
+```
+  This will show the post of a particular author.
+```bash
+  post
+```
+
 ## Bootstrap link
 [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template) 
 - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
